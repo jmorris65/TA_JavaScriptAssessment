@@ -32,8 +32,8 @@ var Pokemon = function(name, attack, defense, health, type) {
 // char.attackOpponent(bulb);
 
 
-// char.display()
-// bulb.display()
+// console.log(char.display());
+// console.log(bulb.display());
 
 // Don't edit this line!
 module.exports = Pokemon;
