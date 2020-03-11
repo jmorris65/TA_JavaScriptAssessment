@@ -5,5 +5,22 @@
   },
   "scripts": {
     "test": "jest tests/pokemon.test.js"
-  }
+  },
+  "name": "ta_javascriptassessment",
+  "description": "The All Star Code Teaching Assistant JavaScript Assessment consists of 4 tasks, to be completed and turned in to dante@allstarcode.org as a GitHub gist.",
+  "version": "1.0.0",
+  "main": "pokemon.js",
+  "directories": {
+    "test": "tests"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AllStarCodeOrg/TA_JavaScriptAssessment.git"
+  },
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/AllStarCodeOrg/TA_JavaScriptAssessment/issues"
+  },
+  "homepage": "https://github.com/AllStarCodeOrg/TA_JavaScriptAssessment#readme"
 }
