@@ -18,10 +18,10 @@ var Pokemon = function(name, attack, defense, health, type) {
 		opponent.takeDamage(damage);
 	}
 	this.display = function() {
-		console.log(this.name.toUpperCase() + 
+		return this.name.toUpperCase() + 
 			' (' + this.type.toUpperCase() + 
 			') ' + this.health +
-			'/' + this.max_health);
+			'/' + this.max_health;
 	}
 }
 
